@@ -29,8 +29,9 @@ header{
     margin-bottom: 40px;
 }
 
-.logo{
-    margin-top: 10px;
+.logo {
+    width: 100px;
+    height: auto;
 }
 
 ul.main-menu{
